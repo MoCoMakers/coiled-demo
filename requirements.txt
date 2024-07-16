@@ -1,3 +1,4 @@
 dask
 coiled
 google-cloud-storage
+jupytext

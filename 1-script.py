@@ -18,6 +18,6 @@ def inc(x):
 future = client.submit(inc, 10)
 result = future.result() # returns 11
 
-print(result)
+print("Result we found was: "+str(result))
 print("Closing cluster")
 cluster.close()

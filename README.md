@@ -29,3 +29,5 @@ python 2-script.py
 ```
 
 Note that the `jupyter notebook 2-script.ipynb` version of the code is not yet working at the cluster creation step.
+
+Credit for arxiv-matplotlib.ipnyb goes to: https://docs.coiled.io/user_guide/arxiv-matplotlib.html
